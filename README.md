@@ -1,4 +1,4 @@
-# Hi 👋, I'm Frank Bahle Ntakirutimana
+# Hi 👋, I'm Frank Bahle
 
 🎓 BSc Computer Science & Informatics (University of Johannesburg)  
 💡 Aspiring Software Engineer | Full-Stack Developer | AI Enthusiast  
