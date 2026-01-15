@@ -37,7 +37,6 @@ I enjoy building real-world systems that combine clean design, efficient logic, 
 - Supporting APIs/services for the e-commerce platform
 
 🔗 Repo: https://github.com/FrankBahle/DailyDeli_Service_API  
-🔗 Repo: https://github.com/FrankBahle/Daily-Deli-service-
 
 ---
 
