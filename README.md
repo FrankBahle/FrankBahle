@@ -7,7 +7,7 @@
 ---
 
 ## 👨‍💻 About Me
-I am a third-year Computer Science and Informatics student at the University of Johannesburg, passionate about software development, artificial intelligence, and problem-solving.  
+I am a Final Computer Science and Informatics student at the University of Johannesburg, passionate about software development, artificial intelligence, and problem-solving.  
 I enjoy building real-world systems that combine clean design, efficient logic, and user-centered thinking.
 
 ---
