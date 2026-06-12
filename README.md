@@ -27,7 +27,7 @@ The Airway Analysis System is a Java desktop application designed to support CT 
 
 **Features:** CT airway processing | PNG slice conversion | Graph construction | Feature extraction | Similarity comparison | Suspicious node detection | Dijkstra and A* pathfinding | Java desktop interface
 
-**Tech Stack:** Java | Java Swing | Custom Graph ADT | Image Processing | Data Structures | Pathfinding Algorithms
+**Tech Stack:** Java | Javafx | Custom Graph ADT | Image Processing | Data Structures | Pathfinding Algorithms
 
 **Repository:** https://github.com/FrankBahle/Mini-Project-AirwayScope
 
